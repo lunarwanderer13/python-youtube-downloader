@@ -1,0 +1,1 @@
+This is where your downloaded videos will end up! I do not recommend changing this folder in any way, if you do please make sure to adjust both scripts.
